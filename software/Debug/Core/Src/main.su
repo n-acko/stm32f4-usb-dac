@@ -1,0 +1,13 @@
+../Core/Src/main.c:79:6:HAL_I2S_TxCpltCallback	16	static
+../Core/Src/main.c:84:6:HAL_I2S_TxHalfCpltCallback	16	static
+../Core/Src/main.c:94:5:main	16	static
+../Core/Src/main.c:204:6:SystemClock_Config	88	static
+../Core/Src/main.c:250:13:MX_ADC1_Init	24	static
+../Core/Src/main.c:302:13:MX_I2S2_Init	8	static
+../Core/Src/main.c:334:13:MX_DMA_Init	16	static
+../Core/Src/main.c:352:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:393:9:DAC_WRITE	24	static
+../Core/Src/main.c:403:6:DAC_INIT	8	static
+../Core/Src/main.c:410:6:customSPI	32	static
+../Core/Src/main.c:440:6:getPllValues	16	static
+../Core/Src/main.c:450:6:Error_Handler	4	static,ignoring_inline_asm

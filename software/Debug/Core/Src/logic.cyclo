@@ -1,0 +1,8 @@
+../Core/Src/logic.c:27:6:getInfo	1
+../Core/Src/logic.c:37:6:recieveData	11
+../Core/Src/logic.c:88:6:updateBuffer	10
+../Core/Src/logic.c:123:6:muteOutput	7
+../Core/Src/logic.c:141:6:getMute	1
+../Core/Src/logic.c:145:6:setFreq	3
+../Core/Src/logic.c:156:6:getFreqPoint	1
+../Core/Src/logic.c:162:6:reset	1

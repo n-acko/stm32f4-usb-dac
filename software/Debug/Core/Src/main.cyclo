@@ -1,0 +1,13 @@
+../Core/Src/main.c:79:6:HAL_I2S_TxCpltCallback	1
+../Core/Src/main.c:84:6:HAL_I2S_TxHalfCpltCallback	1
+../Core/Src/main.c:94:5:main	13
+../Core/Src/main.c:204:6:SystemClock_Config	3
+../Core/Src/main.c:250:13:MX_ADC1_Init	3
+../Core/Src/main.c:302:13:MX_I2S2_Init	2
+../Core/Src/main.c:334:13:MX_DMA_Init	1
+../Core/Src/main.c:352:13:MX_GPIO_Init	1
+../Core/Src/main.c:393:9:DAC_WRITE	1
+../Core/Src/main.c:403:6:DAC_INIT	1
+../Core/Src/main.c:410:6:customSPI	5
+../Core/Src/main.c:440:6:getPllValues	1
+../Core/Src/main.c:450:6:Error_Handler	1
